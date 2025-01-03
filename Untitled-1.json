@@ -1,0 +1,1964 @@
+{
+    "giataId": 173001,
+    "names": [
+        {
+            "value": "Baymont by Wyndham Sioux Falls North/I-29/Russell St",
+            "locale": "de",
+            "isDefault": true
+        }
+    ],
+    "city": {
+        "giataId": 100052131,
+        "names": [
+            {
+                "value": "Sioux Falls",
+                "locale": "de"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "en",
+                "isDefault": true
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "fr"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "es"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "it"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "nl"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "da"
+            },
+            {
+                "value": "Су-Фолс",
+                "locale": "ru"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "pt"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "sl"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "pl"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "cs"
+            },
+            {
+                "value": "Сиукс Фолс (Sioux Falls)",
+                "locale": "bg"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "ro"
+            },
+            {
+                "value": "Sijuks Fols",
+                "locale": "sr"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "hu"
+            },
+            {
+                "value": "سايوكس فالز",
+                "locale": "ar"
+            },
+            {
+                "value": "スーフォールズ",
+                "locale": "ja"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "tr"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "sv"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "fi"
+            },
+            {
+                "value": "Su Folsas/Sju Folsas",
+                "locale": "lt"
+            },
+            {
+                "value": "Sūfolsa",
+                "locale": "lv"
+            },
+            {
+                "value": "Sioux Falls",
+                "locale": "pt_BR"
+            },
+            {
+                "value": "蘇瀑",
+                "locale": "zh_Hant"
+            }
+        ]
+    },
+    "destination": {
+        "giataId": 100000665,
+        "names": [
+            {
+                "value": "South Dakota",
+                "locale": "de"
+            },
+            {
+                "value": "South Dakota",
+                "locale": "en",
+                "isDefault": true
+            },
+            {
+                "value": "Dakota du Sud",
+                "locale": "fr"
+            },
+            {
+                "value": "Dakota del Sur",
+                "locale": "es"
+            },
+            {
+                "value": "South Dakota",
+                "locale": "it"
+            },
+            {
+                "value": "South Dakota",
+                "locale": "nl"
+            },
+            {
+                "value": "South Dakota",
+                "locale": "da"
+            },
+            {
+                "value": "Южная Дакота",
+                "locale": "ru"
+            },
+            {
+                "value": "Dakota do Sul",
+                "locale": "pt"
+            },
+            {
+                "value": "Južna Dakota",
+                "locale": "sl"
+            },
+            {
+                "value": "Dakota Południowa",
+                "locale": "pl"
+            },
+            {
+                "value": "Jižní Dakota",
+                "locale": "cs"
+            },
+            {
+                "value": "Южна Дакота",
+                "locale": "bg"
+            },
+            {
+                "value": "Dakota de Sud",
+                "locale": "ro"
+            },
+            {
+                "value": "Južna Dakota",
+                "locale": "sr"
+            },
+            {
+                "value": "Dél-Dakota",
+                "locale": "hu"
+            },
+            {
+                "value": "داكوتا الجنوبية",
+                "locale": "ar"
+            },
+            {
+                "value": "サウスダコタ州",
+                "locale": "ja"
+            },
+            {
+                "value": "Güney Dakota",
+                "locale": "tr"
+            },
+            {
+                "value": "南达科他州",
+                "locale": "zh"
+            },
+            {
+                "value": "South Dakota",
+                "locale": "sv"
+            },
+            {
+                "value": "Sør-Dakota",
+                "locale": "no"
+            },
+            {
+                "value": "Etelä-Dakota",
+                "locale": "fi"
+            },
+            {
+                "value": "Pietų Dakota",
+                "locale": "lt"
+            },
+            {
+                "value": "Dienviddakota",
+                "locale": "lv"
+            },
+            {
+                "value": "Dakota do Sul",
+                "locale": "pt_BR"
+            },
+            {
+                "value": "Південна Дакота",
+                "locale": "uk"
+            },
+            {
+                "value": "南達科他州",
+                "locale": "zh_Hant"
+            }
+        ]
+    },
+    "country": {
+        "code": "US",
+        "names": [
+            {
+                "value": "USA",
+                "locale": "de"
+            },
+            {
+                "value": "USA",
+                "locale": "en",
+                "isDefault": true
+            },
+            {
+                "value": "USA",
+                "locale": "fr"
+            },
+            {
+                "value": "EE.UU",
+                "locale": "es"
+            },
+            {
+                "value": "USA",
+                "locale": "it"
+            },
+            {
+                "value": "VS",
+                "locale": "nl"
+            },
+            {
+                "value": "USA",
+                "locale": "da"
+            },
+            {
+                "value": "Соединённые Штаты Америки (США)",
+                "locale": "ru"
+            },
+            {
+                "value": "EUA",
+                "locale": "pt"
+            },
+            {
+                "value": "ZDA",
+                "locale": "sl"
+            },
+            {
+                "value": "USA",
+                "locale": "pl"
+            },
+            {
+                "value": "Spojené státy americké",
+                "locale": "cs"
+            },
+            {
+                "value": "САЩ",
+                "locale": "bg"
+            },
+            {
+                "value": "SUA",
+                "locale": "ro"
+            },
+            {
+                "value": "SAD",
+                "locale": "sr"
+            },
+            {
+                "value": "USA",
+                "locale": "hu"
+            },
+            {
+                "value": "الولايات المتحده الامريكيه",
+                "locale": "ar"
+            },
+            {
+                "value": "アメリカ",
+                "locale": "ja"
+            },
+            {
+                "value": "ABD",
+                "locale": "tr"
+            },
+            {
+                "value": "美国",
+                "locale": "zh"
+            },
+            {
+                "value": "USA",
+                "locale": "sv"
+            },
+            {
+                "value": "USA",
+                "locale": "no"
+            },
+            {
+                "value": "Yhdysvallat",
+                "locale": "fi"
+            },
+            {
+                "value": "JAV",
+                "locale": "lt"
+            },
+            {
+                "value": "ASV",
+                "locale": "lv"
+            },
+            {
+                "value": "EUA",
+                "locale": "pt_BR"
+            },
+            {
+                "value": "Сполучені Штати Америки",
+                "locale": "uk"
+            },
+            {
+                "value": "美國",
+                "locale": "zh_Hant"
+            }
+        ]
+    },
+    "source": 2,
+    "ratings": [
+        {
+            "value": "2",
+            "isDefault": true
+        }
+    ],
+    "addresses": [
+        {
+            "addressLines": [
+                "3101 West Russell Street",
+                "Sioux Falls",
+                "South Dakota 57107"
+            ],
+            "street": "West Russell Street",
+            "streetNum": "3101",
+            "zip": "57107",
+            "cityName": "Sioux Falls",
+            "federalState": {
+                "giataId": 100180803,
+                "name": "South Dakota",
+                "code": "SD"
+            }
+        }
+    ],
+    "phones": [
+        {
+            "phone": "+1 605 3386242",
+            "tech": "phone"
+        }
+    ],
+    "urls": [
+        {
+            "url": "https://www.wyndhamhotels.com/de-de/baymont/sioux-falls-south-dakota/baymont-sioux-falls-north-i-29-russell-st/overview"
+        }
+    ],
+    "geoCodes": [
+        {
+            "latitude": 43.568927956187,
+            "longitude": -96.770631230827,
+            "accuracy": "address"
+        }
+    ],
+    "chains": [
+        {
+            "giataId": 100213247,
+            "names": [
+                {
+                    "value": "Baymont by Wyndham",
+                    "locale": "en",
+                    "isDefault": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "id": 59389789,
+            "motifType": "A",
+            "lastUpdate": 1613745385,
+            "heroImage": false,
+            "baseName": "001-A-exterior_59389789",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389789"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389789"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389789"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHrdvPb6kZeZ4opajBysNwvPO06RiU9uonbdAxuXeSWfdyRvbOM%2BpF2Tuom64tqLl4g"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHmeTeErU3O7laCDeKpEhPpK81cx0pWFzrIGqM8bNkhgyoCpTatzdbIouAflkY8Eo8A"
+                }
+            }
+        },
+        {
+            "id": 59389794,
+            "motifType": "A",
+            "lastUpdate": 1613745386,
+            "heroImage": false,
+            "baseName": "002-A-exterior_59389794",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389794"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389794"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389794"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHgTT61veXxvaNjMDC%2BOwLVFNbOP1krthQB5rfPfW6iHClbovTu%2Flv4VjZQHjs4%2FqfA"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHkvfvFjcPx5rvZkG00fXvlqj2LfQBXLs351XWpQdf5%2BbUCjxuSHZsGk8Ox6ooNRd3w"
+                }
+            }
+        },
+        {
+            "id": 59389801,
+            "motifType": "L",
+            "lastUpdate": 1613745388,
+            "heroImage": false,
+            "baseName": "003-L-lounge-lobby_59389801",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389801"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389801"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389801"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHpJcpFBavCFAn%2BjMn%2FLQehUhe2aQhG51j35KsyIBnAhkdNkNyPvOS6npIgUrSEA8bQ"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHmN5%2FRexTaV8E8ezJgOhrIiv0Uu3ARKGg2R3NA%2FFoJxyAXsSQC4CF50nx0dNc2J%2F9w"
+                }
+            }
+        },
+        {
+            "id": 59389804,
+            "motifType": "HB",
+            "lastUpdate": 1613745390,
+            "heroImage": false,
+            "baseName": "004-HB-indoor-pool_59389804",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389804"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389804"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389804"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHtFPVXFeyPfGShn8Yu21kDpRYzaMAQW8mZBEfbF3a6Z7l9V5%2FKzCiecy%2BtN%2FzIUgdw"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHqpLgdGiRESpcSgaQoVdqOj%2BIeRY3RstmGIzbIPNtMvSDANhsEX1fBEcR%2BAHLPC9Pg"
+                }
+            }
+        },
+        {
+            "id": 59389810,
+            "motifType": "R",
+            "lastUpdate": 1613745391,
+            "heroImage": false,
+            "baseName": "005-R-restaurant_59389810",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389810"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389810"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389810"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHqu1pjsQ1P%2FXL7CE5MywjaC9wySaOwn0CCQRqijbNNGudANOk93beiarm%2FMFIgHpZQ"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHvy4pYPIuIR4BxpeESASG2v5q72nZ1umgwK7hcoaUA9AySlN%2B0sL%2BB5RwxFLzQN8DQ"
+                }
+            }
+        },
+        {
+            "id": 59389813,
+            "motifType": "F",
+            "lastUpdate": 1613745393,
+            "heroImage": false,
+            "baseName": "006-F-sports-and-leisure_59389813",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389813"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389813"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389813"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHi969kTz8%2FBczzo9pJg%2F2OuSAQoTfuFhu%2B1UOH4JbVes1CWNo18UlQWzj%2B9olKM2jA"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHjjCrul0oj2NN4XaR0FZfXsqlZ5YtYZw3VANSGnWWYJkVn45%2Fvpp88b%2BaZRxee%2Fasw"
+                }
+            }
+        },
+        {
+            "id": 59389818,
+            "motifType": "BD",
+            "lastUpdate": 1613745394,
+            "heroImage": false,
+            "baseName": "007-BD-bathroom-example_59389818",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389818"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389818"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389818"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHolknCgPQGLwsajwN7KHSDeCvUvEz5nfuNBpVdD%2Ft2p4%2F5am4XX8UDMlX9JdpUXnKg"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHl0fSx1jti6Y%2BZd1tdsx0U469PKGtRSm1UqhFY5IPljrQjajBIRee7Z64q6xOi0tkA"
+                }
+            }
+        },
+        {
+            "id": 59389827,
+            "motifType": "BD",
+            "lastUpdate": 1613745395,
+            "heroImage": false,
+            "baseName": "008-BD-bathroom-example_59389827",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389827"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389827"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389827"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHjLSTjnnIetVm1urF4k8wFDVCja3b1wKnpM9cM7Wh8%2Fc7s3%2BfPI4oLra60e%2FTpnSbA"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHgV3UGgU%2FgMAJbKCpeu%2F%2BW0CAmuwA2tabUWzBrmMze%2F5hL05EgiIKfjUj8MVpmNMiw"
+                }
+            }
+        },
+        {
+            "id": 59389830,
+            "motifType": "W",
+            "lastUpdate": 1613745396,
+            "heroImage": false,
+            "baseName": "009-W-room-example_59389830",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389830"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389830"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389830"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHttcjOJV1wEg8OM%2BFNU6h%2B4muWRqvs5vFvRoAWx7%2BHnTrClxiNfCAOMQ5m0dKzRKQA"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHtZRgFGuttDn2tkO%2FYnf%2B2ywBzNgvRiD1SzIUisEvsyRk%2FrjjreSlVFcddTnuxm%2FAw"
+                }
+            }
+        },
+        {
+            "id": 59389835,
+            "motifType": "W",
+            "lastUpdate": 1613745399,
+            "heroImage": false,
+            "baseName": "010-W-room-example_59389835",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389835"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389835"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389835"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHqngsMOaOoNlu2FtkXh2aCwC%2FO51rRbXbYWx8RJF%2BX5GA0xUQtk%2F31798GiGar2hVA"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHkxmUou%2FiK4K7WuKBEWYvLoPJeQqYG1r9zi6IsRsSXc8FWJXyBq0MAETCaJRPy3Vhw"
+                }
+            }
+        },
+        {
+            "id": 59389836,
+            "motifType": "W",
+            "lastUpdate": 1613745401,
+            "heroImage": false,
+            "baseName": "011-W-room-example_59389836",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389836"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389836"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389836"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHkejqpzbVt5lDP%2FgBzoVHpkuBrySBAeARxvNTQ67754CrDpT3iUcA4ol7QtYzjHGSA"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHh5cYmGQwguRmGRttp1ruSOE71eB50RQSgIfCxjm%2FIVo4zVa4lDptlNLDFAw09jWHQ"
+                }
+            }
+        },
+        {
+            "id": 59389842,
+            "motifType": "BD",
+            "lastUpdate": 1613745402,
+            "heroImage": false,
+            "baseName": "012-BD-bathroom-example_59389842",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389842"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389842"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389842"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHhsxv7UKjT2KDQow5PBr97Z9qUhZgKbrv5suGV6Ewihgbkvb4goscVxyobl8W9p9ng"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHkqRAq2%2Fw%2BVt%2Bx%2Blp8RinPEvlm%2F%2FpEcHmFp1PEQG71b7wKX3Hjsan%2BxTaVSeur6qjA"
+                }
+            }
+        },
+        {
+            "id": 59389846,
+            "motifType": "L",
+            "lastUpdate": 1613745404,
+            "heroImage": false,
+            "baseName": "013-L-lounge-lobby_59389846",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389846"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389846"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389846"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHrBaWONA14usfNAnJSk%2Fok5ohrAMJ4z%2FCjKTParcGcijSJYzzDujTeY%2BsUc9BYvxug"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHjkajTV3q3pCKr8KuciO%2BDoXDPcF4h%2BpWvC8IwwhqFaRVSeJ9es9n9uZJAYA3tbdkg"
+                }
+            }
+        },
+        {
+            "id": 59389850,
+            "motifType": "W",
+            "lastUpdate": 1613745406,
+            "heroImage": false,
+            "baseName": "014-W-room-example_59389850",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389850"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389850"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389850"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHmAKTVsjDNuTSwFeVM44ZyYcKoRcTD7rWU709H32IuJZvtjkxBxlwr0iZR2YhGkOow"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHtXfIWoZw8VEYtiAvqeXHGTIDFcRQOhXQwNZEbPC%2BG4rOixpAvQ7pfionlc4qx%2BXiw"
+                }
+            }
+        },
+        {
+            "id": 59389861,
+            "motifType": "K",
+            "lastUpdate": 1613745408,
+            "heroImage": false,
+            "baseName": "015-K-conference-room_59389861",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389861"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389861"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389861"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHmgJR0rj%2Biafdwvk%2FGrtrTwOOrS2boaYvtFjRo9U1ypxza5GG8llrpASXpdCRV8j1Q"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHnpFSuopcKXldoYaWroiBs9bUjcd8a61UqOP4WQDAsjG7wOgeejjKn3PNkwQeKkx8A"
+                }
+            }
+        },
+        {
+            "id": 59389868,
+            "motifType": "L",
+            "lastUpdate": 1613745409,
+            "heroImage": false,
+            "baseName": "016-L-lounge-lobby_59389868",
+            "sizes": {
+                "74": {
+                    "maxWidth": 74,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=74&cid=&iid=59389868"
+                },
+                "320": {
+                    "maxWidth": 320,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=320&cid=&iid=59389868"
+                },
+                "800": {
+                    "maxWidth": 800,
+                    "href": "https://i.giatamedia.com/s.php?uid=203291&source=xml&size=800&cid=&iid=59389868"
+                },
+                "1080": {
+                    "maxWidth": 1620,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHtzxNnYk%2FxtgK1HAnVP3%2BM6iNATjBtwvfVgKVTynXtMeh0PZl2FEHAwaOx55dlJjjw"
+                },
+                "2160": {
+                    "maxWidth": 3000,
+                    "href": "https://i.giatamedia.com/i.php?uid=203291&k=MTU1NDA2OTYwMEAUHcQrW0GQ%2B1E2sboCp4omQcdlE%2B9seOKPcbdjfHFqHrnG3a%2BHJCJOaGzAI%2FfeTJOJRC3vy8QmxoAY4QXHTkfBHKYOeRSsj8RdkUWbym%2F88A"
+                }
+            }
+        }
+    ],
+    "facts": {
+        "8": [
+            {
+                "factDefId": "8"
+            }
+        ],
+        "11": [
+            {
+                "factDefId": "11"
+            }
+        ],
+        "19": [
+            {
+                "factDefId": "19"
+            }
+        ],
+        "22": [
+            {
+                "factDefId": "22",
+                "attributes": {
+                    "21": {
+                        "attributeDefId": "21"
+                    },
+                    "93": {
+                        "attributeDefId": "93"
+                    }
+                }
+            }
+        ],
+        "27": [
+            {
+                "factDefId": "27"
+            }
+        ],
+        "28": [
+            {
+                "factDefId": "28"
+            }
+        ],
+        "33": [
+            {
+                "factDefId": "33"
+            }
+        ],
+        "35": [
+            {
+                "factDefId": "35"
+            }
+        ],
+        "39": [
+            {
+                "factDefId": "39"
+            }
+        ],
+        "43": [
+            {
+                "factDefId": "43"
+            }
+        ],
+        "44": [
+            {
+                "factDefId": "44"
+            }
+        ],
+        "45": [
+            {
+                "factDefId": "45"
+            }
+        ],
+        "50": [
+            {
+                "factDefId": "50"
+            }
+        ],
+        "53": [
+            {
+                "factDefId": "53"
+            }
+        ],
+        "58": [
+            {
+                "factDefId": "58"
+            }
+        ],
+        "62": [
+            {
+                "factDefId": "62",
+                "attributes": {
+                    "74": {
+                        "attributeDefId": "74"
+                    }
+                }
+            }
+        ],
+        "64": [
+            {
+                "factDefId": "64"
+            }
+        ],
+        "67": [
+            {
+                "factDefId": "67"
+            }
+        ],
+        "70": [
+            {
+                "factDefId": "70"
+            }
+        ],
+        "83": [
+            {
+                "factDefId": "83"
+            }
+        ],
+        "87": [
+            {
+                "factDefId": "87"
+            }
+        ],
+        "88": [
+            {
+                "factDefId": "88"
+            }
+        ],
+        "96": [
+            {
+                "factDefId": "96",
+                "attributes": {
+                    "7": {
+                        "attributeDefId": "7"
+                    }
+                }
+            }
+        ],
+        "117": [
+            {
+                "factDefId": "117",
+                "attributes": {
+                    "4": {
+                        "attributeDefId": "4"
+                    },
+                    "24": {
+                        "attributeDefId": "24"
+                    },
+                    "41": {
+                        "attributeDefId": "41"
+                    }
+                }
+            }
+        ],
+        "120": [
+            {
+                "factDefId": "120"
+            }
+        ],
+        "125": [
+            {
+                "factDefId": "125"
+            }
+        ],
+        "131": [
+            {
+                "factDefId": "131"
+            }
+        ],
+        "139": [
+            {
+                "factDefId": "139"
+            }
+        ],
+        "141": [
+            {
+                "factDefId": "141"
+            }
+        ],
+        "143": [
+            {
+                "factDefId": "143"
+            }
+        ],
+        "145": [
+            {
+                "factDefId": "145"
+            }
+        ],
+        "146": [
+            {
+                "factDefId": "146"
+            }
+        ],
+        "148": [
+            {
+                "factDefId": "148"
+            }
+        ],
+        "154": [
+            {
+                "factDefId": "154"
+            }
+        ],
+        "158": [
+            {
+                "factDefId": "158"
+            }
+        ],
+        "159": [
+            {
+                "factDefId": "159"
+            }
+        ],
+        "166": [
+            {
+                "factDefId": "166"
+            }
+        ],
+        "170": [
+            {
+                "factDefId": "170",
+                "attributes": {
+                    "49": {
+                        "attributeDefId": "49",
+                        "value": "1"
+                    }
+                }
+            }
+        ],
+        "172": [
+            {
+                "factDefId": "172"
+            }
+        ],
+        "176": [
+            {
+                "factDefId": "176"
+            }
+        ],
+        "182": [
+            {
+                "factDefId": "182"
+            }
+        ],
+        "183": [
+            {
+                "factDefId": "183"
+            }
+        ],
+        "184": [
+            {
+                "factDefId": "184"
+            }
+        ],
+        "185": [
+            {
+                "factDefId": "185",
+                "attributes": {
+                    "21": {
+                        "attributeDefId": "21"
+                    }
+                }
+            }
+        ],
+        "186": [
+            {
+                "factDefId": "186"
+            }
+        ],
+        "202": [
+            {
+                "factDefId": "202"
+            }
+        ],
+        "219": [
+            {
+                "factDefId": "219"
+            }
+        ],
+        "220": [
+            {
+                "factDefId": "220"
+            }
+        ],
+        "316": [
+            {
+                "factDefId": "316",
+                "attributes": {
+                    "49": {
+                        "attributeDefId": "49",
+                        "value": "43"
+                    }
+                }
+            }
+        ],
+        "326": [
+            {
+                "factDefId": "326",
+                "attributes": {
+                    "56": {
+                        "attributeDefId": "56",
+                        "value": "2"
+                    }
+                }
+            }
+        ],
+        "346": [
+            {
+                "factDefId": "346"
+            }
+        ],
+        "443": [
+            {
+                "factDefId": "443"
+            }
+        ],
+        "486": [
+            {
+                "factDefId": "486"
+            }
+        ],
+        "487": [
+            {
+                "factDefId": "487"
+            }
+        ],
+        "489": [
+            {
+                "factDefId": "489"
+            }
+        ],
+        "490": [
+            {
+                "factDefId": "490"
+            }
+        ],
+        "492": [
+            {
+                "factDefId": "492"
+            }
+        ],
+        "493": [
+            {
+                "factDefId": "493",
+                "attributes": {
+                    "21": {
+                        "attributeDefId": "21"
+                    }
+                }
+            }
+        ],
+        "514": [
+            {
+                "factDefId": "514"
+            }
+        ],
+        "516": [
+            {
+                "factDefId": "516"
+            }
+        ],
+        "519": [
+            {
+                "factDefId": "519"
+            }
+        ],
+        "528": [
+            {
+                "factDefId": "528"
+            }
+        ],
+        "581": [
+            {
+                "factDefId": "581"
+            }
+        ]
+    },
+    "variantGroups": [],
+    "texts": {
+        "de": {
+            "locale": "de",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Lage",
+                    "para": "Dieses Hotel liegt in Sioux Falls, der nächste Flughafen ist Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Ausstattung",
+                    "para": "In dieser Unterbringung mit einem Aufzug und einer Rezeption gibt es 43 Zimmer. Eine Gepäckaufbewahrung, ein Safe und ein Getränkeautomat stehen als Serviceleistungen zur Verfügung. WLAN ist in den öffentlichen Bereichen verfügbar. Das Haus bietet eine Reihe behindertengerechter Annehmlichkeiten. Das Hotel verfügt über rollstuhlgerechte Einrichtungen. Geschäfte sind ebenfalls vorhanden. Zur weiteren Einrichtung der Unterbringung zählt ein TV-Raum. Bei einer Anreise mit dem Auto können die Gäste dieses in einer Garage oder auf dem Parkplatz (ohne Gebühr) parken. Unter den weiteren Leistungen finden sich ein Wäscheservice und eine Münzwäscherei. Bei Geschäftlichem hilft das Business-Center gerne weiter und bietet ein Faxgerät an."
+                },
+                {
+                    "title": "Zimmer",
+                    "para": "Für angenehmes Raumklima in den Zimmern sorgen eine Klimaanlage und eine Heizung. Kinderbetten für die jüngsten Gäste sind ebenso vorhanden. Es gibt einen Schreibtisch. Auch ein Kühlschrank, eine Mikrowelle und eine Tee-/Kaffeemaschine sind vorhanden. Ein Bügelset ist für den zusätzlichen Komfort der Gäste verfügbar. Die Ausstattung wird von einem Telefon, einem TV-Gerät und WiFi (ohne Gebühr) abgerundet. Im Badezimmer, ausgestattet mit einer Dusche und einer Whirlwanne, gibt es einen Haartrockner. Außerdem sind rollstuhlgerechte Zimmer mit barrierefreiem Badezimmer buchbar. Das Haus bietet Familien-, Nichtraucher- und ein Raucherzimmer."
+                },
+                {
+                    "title": "Sport/Entertainment",
+                    "para": "Innen- und Außenpools eignen sich hervorragend für regelmäßiges Aquatraining und aktive Erholung. Abwechslung bieten verschiedene Angebote, darunter Golfen, ein Fitnessstudio und Aerobic."
+                },
+                {
+                    "title": "Verpflegung",
+                    "para": "Es ist ein Speiseraum vorhanden. Ein reichhaltiges Frühstücksbuffet lockt morgens aus den Betten."
+                },
+                {
+                    "title": "Kreditkarten",
+                    "para": "Folgende Kreditkarten werden im Hotel akzeptiert: American Express, Visa und MasterCard."
+                }
+            ]
+        },
+        "en": {
+            "locale": "en",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Location",
+                    "para": "This hotel is located in Sioux Falls. The nearest airport is Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Facilities",
+                    "para": "The hotel has 43 rooms and includes a lift and a reception desk. A baggage storage service, a safe and a drinks machine are available. Wireless internet access in public areas allows guests to stay connected. The hotel offers a number of facilities for guests with disabilities. The hotel has wheelchair-accessible facilities. There are a number of shops as well. Additional facilities include a TV room. Guests arriving by car can park their vehicles in the garage or in the car park (no extra charge). Further services and facilities include a laundry service and a coin-operated laundry. The business centre is on hand for guests' business requirements and provides a fax machine."
+                },
+                {
+                    "title": "Rooms",
+                    "para": "Air conditioning and central heating ensure that rooms maintain comfortable temperatures. Children's beds can be requested for younger guests. A desk is provided. Additional features include a refrigerator, a microwave and a tea/coffee station. An ironing set is provided for guests' convenience. Other features include a telephone, a TV and WiFi (no extra charge). Bathrooms are equipped with a shower and a whirlpool bath, as well as a hairdryer. Guests can also book wheelchair-friendly rooms with wheelchair-accessible bathrooms. The hotel has family rooms, non-smoking rooms and 1 smoking room."
+                },
+                {
+                    "title": "Sports/Entertainment",
+                    "para": "The indoor and outdoor pools are ideal for exercise as well as relaxation. There are many ways to relax or stay active at the hotel, including golf, a gym and aerobics."
+                },
+                {
+                    "title": "Meals",
+                    "para": "There is a dining room on the premises. A generous breakfast buffet guarantees a great start to the day."
+                },
+                {
+                    "title": "Payment",
+                    "para": "The hotel accepts the following credit cards: American Express, VISA and MasterCard."
+                }
+            ]
+        },
+        "fr": {
+            "locale": "fr",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Equipement",
+                    "para": "L'hôtel dispose d'un total de 43 chambres. Tous les étages sont accessibles via un escalier ou un ascenseur. Les services proposés incluent notamment un local à bagages et un coffre-fort. L'accès WiFi disponible dans les espaces communs permet de rester en contact avec le monde extérieur. L'établissement dispose bien sûr de nombreux aménagements adaptés aux personnes à mobilité réduite. L'offre gastronomique inclut une salle à manger. Des boutiques sont également disponibles sur place. L'établissement possède en outre un espace TV. Les personnes voyageant en voiture pourront se garer dans le garage ou sur le parking (sans supplément). Les prestations/services comptent un service de blanchisserie. Idéal pour travailler dans les meilleures conditions, le centre d'affaires propose un fax."
+                },
+                {
+                    "title": "Chambres",
+                    "para": "Dans les chambres, on trouve un système de climatisation, le chauffage central et une salle de bain. Des lits pour enfants sont bien sûr mis à disposition. Il y a également un bureau. L'hôtel propose un réfrigérateur, un four à micro-ondes et une cafetière/bouilloire garantissant un séjour fort agréable. Un nécessaire à repasser fait partie des équipements standard. Les intérieurs sont complétés par un accès Internet, un téléphone, une télévision et un accès WiFi (sans supplément). Certaines chambres sont adaptées aux fauteuils roulants. Les salles de bain disposent d'une douche et d'un bain à remous. Les clients se verront aussi proposer un sèche-cheveux. Possibilité de réserver des chambres équipées d'une salle de bain adaptée aux personnes à mobilité réduite. L'hôtel propose des chambres familiales, des chambres non-fumeur et des chambres fumeur."
+                },
+                {
+                    "title": "Sport/Animations",
+                    "para": "Par une journée de grosse chaleur, rien de tel que de piquer une tête dans la piscine couverte ou celle de plein air pour se rafraîchir. D'innombrables moyens de se délasser sont proposés, dont du golf, une salle de fitness et de l'aérobic."
+                },
+                {
+                    "title": "Repas",
+                    "para": "Possibilité de réserver le petit-déjeuner."
+                },
+                {
+                    "title": "Cartes de crédit",
+                    "para": "Les cartes de crédit American Express, Visa et MasterCard sont acceptées."
+                }
+            ]
+        },
+        "it": {
+            "locale": "it",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Dotazione",
+                    "para": "Questo hotel è dotato di ascensore e reception e offre 43 camere. Deposito bagagli, cassetta di sicurezza e distributore automatico di bevande si rivelano pratici in diverse occasioni. Il WiFi nelle aree comuni permette agli ospiti di essere sempre in contatto all’occorrenza con il mondo esterno. L’hotel offre vari comfort e dotazioni accessibili ai disabili. La struttura ricettiva vanta spazi con accesso facilitato per sedie a rotelle. Sono presenti alcuni negozi. La dotazione della struttura prevede anche una sala TV. Per chi viaggia in auto vi sono garage e parcheggio (senza sovrapprezzo). I clienti potranno inoltre contare su lavanderia e lavanderia a gettone. Il business center con fax assiste i professionisti in viaggio d’affari."
+                },
+                {
+                    "title": "Camere",
+                    "para": "Aria condizionata e riscaldamento rendono la temperatura sempre gradita. Si possono richiedere letti per bambini. È inoltre disponibile una scrivania. A garantire un soggiorno confortevole vi sono un frigorifero, un forno a microonde e un set per la preparazione di tè/caffè. Chi viaggia con poco bagaglio gradirà di certo il set da stiro. La dotazione comprende telefono, televisore e WiFi (senza sovrapprezzo). Nella stanza da bagno sono presenti doccia e vasca con idromassaggio nonché un asciugacapelli. Per gli ospiti dalla mobilità limitata vi sono camere accessibili in sedia a rotelle e bagno senza barriere architettoniche. L’hotel mette a disposizione camere per famiglie, camere non fumatori e una camera per fumatori."
+                },
+                {
+                    "title": "Sport/Intrattenimento",
+                    "para": "Chi vuole fare esercizio o rilassarsi in acqua ha a disposizione un’area piscina provvista di vasche coperte e all’aperto. L’offerta prevede golf, palestra e aerobica."
+                },
+                {
+                    "title": "Pasti",
+                    "para": "È presente una sala da pranzo. È possibile prenotare un soggiorno con formula pernottamento più sostanziosa colazione a buffet."
+                },
+                {
+                    "title": "Carte di credito",
+                    "para": "Le seguenti carte di credito sono accettate nella struttura: American Express, Visa e MasterCard."
+                }
+            ]
+        },
+        "ru": {
+            "locale": "ru",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Инфраструктура",
+                    "para": "В распоряжении гостей 43 номера. На верхние этажи можно без труда подняться на лифте или по лестнице. Работают камера хранения багажа и сейф. WiFi в общественных зонах позволит гостям быть в курсе событий. Отель предлагает целый ряд услуг и удобств для людей с ограниченными возможностями. Столовая ждет посетителей. На территории отеля есть различные магазины. Для гостей работает телезал. Прибывшие на собственной машине могут пользоваться гаражом или парковкой (бесплатно). К услугам гостей прачечная. Бизнес-центр оборудован современной оргтехникой, в том числе факсом."
+                },
+                {
+                    "title": "Номера",
+                    "para": "В номерах есть кондиционер воздуха, центральное отопление и ванная комната. Предоставляются детские кроватки. Кроме этого, в вашем распоряжении письменный стол. К дополнительным удобствам относятся холодильник, микроволновая печь и автомат для приготовления чая и кофе. К вашим услугам набор для глажки. Оснащение включает доступ в интернет, телефон, телевизор и WiFi (бесплатно). Несколько номеров адаптировано для кресел-колясок. Есть ванные комнаты с душем и гидромассажем. Имеется фен. Для людей с ограниченными возможностями – номера с безбарьерными ванными комнатами. По желанию размещение в семейных номерах, в номерах для некурящих и в номерах для курящих."
+                },
+                {
+                    "title": "Спорт и развлечения",
+                    "para": "В жаркие дни стоит освежиться в открытом бассейне, а в прохладные поплавать в крытом. Гольф, фитнес-студия и курс аэробики – это шанс отдохнуть и восстановить силы."
+                },
+                {
+                    "title": "Питание",
+                    "para": "Можно выбрать завтрак."
+                },
+                {
+                    "title": "Кредитные карточки",
+                    "para": "Следующие кредитные карты принимаются к оплате: American Express, Visa и MasterCard."
+                }
+            ]
+        },
+        "es": {
+            "locale": "es",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Ubicación",
+                    "para": "Este hotel queda en Sioux Falls y el aeropuerto más próximo es Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Instalaciones",
+                    "para": "En este hotel con ascensor y recepción hay 43 habitaciones. Hay consigna para equipaje, caja fuerte y distribuidor automático de bebidas. Hay wifi disponible en las zonas comunes. El alojamiento dispone de una serie de instalaciones adaptadas para minusválidos. El establecimiento dispone de instalaciones habilitadas para el acceso en silla de ruedas. También hay comercios para hacer unas compras o simplemente curiosear. Las instalaciones del hotel incluyen una sala de TV. Los huéspedes que lleguen en coche pueden dejarlo en un garaje o en el aparcamiento (gratis). Otros servicios incluidos son lavandería y lavandería a monedas. El centro de negocios ofrece fax."
+                },
+                {
+                    "title": "Habitaciones",
+                    "para": "Aire acondicionado y calefacción central se encargan de que haya una temperatura agradable en las habitaciones. Hay camas para niños disponibles. Las comodidades incluyen un escritorio. También hay nevera, microondas y cafetera/tetera. Se ofrece set de plancha para mayor comodidad de los huéspedes. El equipamiento se completa con teléfono, televisor y wifi (gratis). En el cuarto de baño, equipado con ducha y bañera de hidromasaje, también hay secador de pelo. Además, se pueden reservar habitaciones con acceso para silla de ruedas con cuarto de baño accesible. El alojamiento ofrece habitaciones familiares, habitaciones de no fumadores y una habitación de fumadores."
+                },
+                {
+                    "title": "Deporte y ocio",
+                    "para": "Las piscinas cubiertas y al aire libre son ideales para hacer ejercicio en el agua de forma regular, así como para descansar. Para sacar el máximo partido al tiempo libre, se ofrecen golf, gimnasio y aeróbic."
+                },
+                {
+                    "title": "Comidas",
+                    "para": "Hay comedor. Nada mejor que un desayuno de bufé abundante para empezar la jornada con buen pie."
+                },
+                {
+                    "title": "Tarjetas de crédito",
+                    "para": "En el establecimiento se aceptan las siguientes tarjetas de crédito: American Express, Visa y MasterCard."
+                }
+            ]
+        },
+        "nl": {
+            "locale": "nl",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": " Ligging",
+                    "para": "Dit hotel ligt in Sioux Falls, de dichtstbijzijnde luchthaven is Sioux Falls (FSD)."
+                },
+                {
+                    "title": " Hotelfaciliteiten",
+                    "para": "In dit verblijf met een lift en een receptie zijn 43 kamers. Een bagagedepot, een kluis en een drankenautomaat bieden de nodige service. In de openbare ruimtes is Wi-Fi verkrijgbaar. Het hotel beschikt over verschillende faciliteiten die voor gehandicapten toegankelijk zijn. Het hotel beschikt over faciliteiten voor rolstoelgebruikers. Er zijn ook winkels. Tot de overige voorzieningen van het verblijf behoort een tv-ruimte. De gasten die met de auto komen, kunnen in een garage of op de parkeerplaats (kosteloos) parkeren. Onder de beschikbare voorzieningen bevinden zich een wasservice en een muntwasserette. Bij het zakendoen kan van het businesscenter gebruik worden gemaakt en staat een fax ter beschikking."
+                },
+                {
+                    "title": " Kamers",
+                    "para": "Airconditioning en een verwarming zorgen voor een aangename luchtcirculatie in de kamers. Voor de jongste gasten staan kinderbedjes klaar. Bovendien is er een bureau aanwezig. Ook zijn een koelkast, een magnetron en een thee-/koffiezetapparaat aanwezig. Een strijkset is voor het extra comfort van de gasten verkrijgbaar. Een telefoon, een televisie en Wi-Fi (kosteloos) ronden het serviceaanbod af. In de badkamer, uitgerust met een douche en een bubbelbad, vinden de gasten een föhn. Bovendien zijn rolstoelvriendelijke kamers met een barrièrevrije badkamer te boeken. Het hotel beschikt over gezinskamers, niet-rokerskamers en een rokerskamer."
+                },
+                {
+                    "title": "Sport/entertainment",
+                    "para": "Binnen- en buitenzwembaden zijn uitstekend geschikt voor een paar uurtjes aquarobics training en actieve ontspanning. Verschillende ontspanningsmogelijkheden zoals golfen, een fitnessstudio en aerobics zorgen voor de nodige afwisseling."
+                },
+                {
+                    "title": " Eten en drinken",
+                    "para": "Er is een eetzaal voorhanden. Een uitgebreid ontbijtbuffet nodigt 's ochtends uit om het bed te verlaten."
+                },
+                {
+                    "title": " Creditcards",
+                    "para": "De volgende creditcards worden in het hotel geaccepteerd: American Express, Visa en MasterCard."
+                }
+            ]
+        },
+        "ja": {
+            "locale": "ja",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "",
+                    "para": "このホテルはスーフォールズに位置しており、最寄の空港はSioux Falls(FSD)空港です。"
+                },
+                {
+                    "title": "施設概要",
+                    "para": "エレベーターやレセプションを備えたこの宿泊施設では、43室のお部屋が用意されています。荷物預かり、金庫やドリンク自動販売機といったサービスをご利用いただけます。無線LANは共有エリアでご利用いただけます。この施設は、お身体の不自由なお客さまにご利用いただけるアメニティ一式をご提供しています。このホテルは車いす対応の設備をご提供しています。また、各種ショップもご利用いただけます。また、この宿泊施設はTVルームなどのファシリティを備えています。車でお越しのお客さまは、ガレージまたは駐車場（無料）に駐車していただけます。その他のサービスには衣服クリーニングサービスやコインランドリーなどがあります。ビジネスセンターは、ビジネスシーンのサポートを行うと共に、ファックスマシンをご提供します。"
+                },
+                {
+                    "title": "客室",
+                    "para": "エアコンやセントラルヒーティングがお部屋の空気を心地よく整えています。小さなお客様のための子供用ベッドもあります。ライティング・デスクをご利用いただけます。また、冷蔵庫、電子レンジや紅茶／コーヒーメーカーもあります。ご滞在をより快適なものにするために、アイロン一式をご用意しています。ほかにも電話、TVやWiFi（無料）が揃っており、充実したファシリティをご利用いただけます。シャワーやジャグジープール付きバスルームには、ヘアドライヤーがあります。ほかにも、バリアフリーのバスルームを完備した車いす対応の部屋がご予約可能です。この施設はファミリールーム、禁煙の部屋や喫煙ルーム1室をご提供しています。"
+                },
+                {
+                    "title": "スポーツ／レクリエーション",
+                    "para": "屋内・屋外プールは、定期的にアクアトレーニングを行ったり、アクティビティを通して息抜きをするのに最適です。ゴルフ、フィットネス・スタジオやエアロビクスなどの様々なアクティビティで、変化に富んだご滞在をお楽しみください。"
+                },
+                {
+                    "title": "お食事",
+                    "para": "ダイニングルームをご利用いただけます。朝には、わくわくしながら目を覚ましてしまうような盛りだくさんの朝食ビュッフェをご用意しています。"
+                },
+                {
+                    "title": "クレジットカード",
+                    "para": "次のクレジットカードをこのホテルでご使用いただけます：アメリカン・エキスプレス、VisaおよびMasterCard。"
+                }
+            ]
+        },
+        "pl": {
+            "locale": "pl",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Wyposażenie",
+                    "para": "Hotel oferuje łącznie 43 pokoje. Poszczególne piętra osiągalne są za pomocą windy bądź też schodami. Na miejscu znajduje się przechowalnia bagażu i sejf. Wi-Fi w pomieszczeniach ogólnodostępnych zapewnia stały dostęp do sieci. Obiekt dysponuje szeregiem udogodnień dla niepełnosprawnych. Oferta gastronomiczna obejmuje jadalnię. Dostępna jest baza handlowa w postaci sklepów. Na terenie obiektu znajduje się również sala telewizyjna. Auto pozostawić można w garażu oraz na parkingu (bezpłatnie). Goście mogą skorzystać z pralni. W kwestiach biznesowych pomocą i radą służy Państwu nasze dysponujące faksem Buisness Center."
+                },
+                {
+                    "title": "Pokoje",
+                    "para": "Pokoje wyposażone są w klimatyzację, centralne ogrzewanie i łazienkę. Dla naszych małych gości przygotowaliśmy łóżeczka dziecięce. W pokoju znajduje się biurko. Komfortowy pobyt zapewniają lodówka, kuchenka mikrofalowa i ekspres do kawy / herbaty. Kolejnym udogodnieniem jest zestaw do prasowania. Dopełnieniem wyposażenia jest internet, telefon, telewizor i Wi-Fi (bezpłatnie). Dostępne są również pokoje przystosowane dla osób poruszających się na wózkach inwalidzkich. Łazienki dysponują prysznicem i jacuzzi. W łazience goście znajdą suszarkę do włosów. Istnieje również możliwość rezerwacji kwatery z łazienką dla osób niepełnosprawnych. Hotel oferuje pokoje rodzinne, pokoje dla niepalących i pokoje dla palących."
+                },
+                {
+                    "title": "Oferta sportowo-rozrywkowa",
+                    "para": "Orzeźwienie i ochłodę znajdziecie Państwo w jednym z naszych basenów (krytym bądź otwartym). Urozmaicony pobyt zapewnią Państwu nasze pozostałe propozycje jak golf, studio fitness i aerobik."
+                },
+                {
+                    "title": "Wyżywienie",
+                    "para": "Spośród posiłków wybrać można śniadanie."
+                },
+                {
+                    "title": "Karty kredytowe",
+                    "para": "W obiekcie akceptowane są następujące karty kredytowe: American Express, Visa i MasterCard."
+                }
+            ]
+        },
+        "cs": {
+            "locale": "cs",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Vybavení",
+                    "para": "Hotel hostům nabízí celkem 43 pokojů. Do všech poschodí lze vyjít po schodech nebo pohodlně vyjet výtahem. V objektu je úschovna zavazadel a hotelový sejf. Ve společných prostorách se mohou hosté přes WiFi připojit k internetu. Objekt má celou řadu zařízení pro handicapované. V hotelu je jídelna. Jsou zde i různé obchody. Je zde TV místnost. Hosté mohou zaparkovat v garáži nebo na parkovišti (zdarma). K nabídce patří i prádelna. Při řešení obchodních záležitostí mohou hosté využívat služeb business centra, které nabízí fax."
+                },
+                {
+                    "title": "Vybavení pokoje",
+                    "para": "V pokojích je klimatizace, ústřední topení a koupelna. Pro děti jsou k dispozici dětské postýlky. Je tady pracovní stůl. Hosté mohou použít ledničku, mikrovlnnou troubu a varnou konvici/kávovar. Hosté mají k dispozici sadu na žehlení. Zařízení pokoje doplňuje připojení k internetu, telefon, televize a WiFi (zdarma). Některé pokoje jsou bezbariérové. Koupelny mají sprchový kout a vířivou vanu. Je zde vysoušeč vlasů. Je možné rezervovat koupelnu s bezbariérovým přístupem. V objektu jsou pokoje pro rodiny, nekuřácké pokoje a pokoje pro kuřáky."
+                },
+                {
+                    "title": "Sport/zábava",
+                    "para": "V horkých dnech se mohou hosté zchladit a zaplavat si v krytém nebo venkovním bazénu. Volný čas zde hosté mohou trávit různě, v nabídce je například golf, fitness studio a aerobik."
+                },
+                {
+                    "title": "Stravování",
+                    "para": "Je možné si objednat snídaně."
+                },
+                {
+                    "title": "Platba",
+                    "para": "Je možné zaplatit platebními kartami American Express, Visa a MasterCard."
+                }
+            ]
+        },
+        "ar": {
+            "locale": "ar",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "الموقع",
+                    "para": "يقع هذا الفندق في سايوكس فالز، بالقرب من مطار Sioux Falls (FSD)."
+                },
+                {
+                    "title": "التجهيزات والخدمات",
+                    "para": "في مكان الإقامة هذا المزود بمصعد وقسم استقبال هناك ٤٣ غرفة. تتوفر حفظ أمتعة وخزينة وآلة بيع مشروبات بصفتها جزء من الخدمات. إن خدمة الإنترنت اللاسلكي متوفرة في الأماكن العامة. يقدمهذا الفندق عدداً من مرافق الراحة المناسبة لأصحاب الاحتياجات الخاصة. يمتلك هذا الفندق تجهيزات مناسبة للكرسي المتحرك. كما تتوفر محلات تجارية أيضاً. تحتوي مرافق المبنى على غرفة تلفاز أيضاً. يمكن للضيوف القادمين بسياراتهم صفّها في المرآب الداخلي أو في المرآب الخارجي (دون دفع رسوم إضافية). تشمل الخدمات الإضافية خدمة غسيل ملابس وغسالة تعمل بعملات معدنية. يوفر قسم الأعمال جهاز الفاكس من أجل دعم التواصل والعلاقات في مجال الأعمال."
+                },
+                {
+                    "title": "السكن",
+                    "para": "يعمل جهاز تكيّيف وجهاز تدفئة على ضمان مناخ داخلي مريح في الغرف. تتوفر لأولاد الضيوف كذلك أسرّة أطفال مناسبة. هناك طاولة مكتب كذلك. كذلك هناك برّاد وميكروويف وآلة تحضير القهوة والشاي. ويوفر وجود عدّة كي ملابس راحة إضافية للضيوف. وتكتمل التجهيزات بوجود هاتف وجهاز تلفاز وواي فاي (دون دفع رسوم إضافية). في غرفة الحمّام المجهزة بدوش وحوض جاكوزي هناك مجفف شعر. فضلاً عن ذلك يمكن حجز غرف مناسبة للكرسي المتحرك مع حمام مناسب لذوي الاحتياجات الخاصة. يقدم هذا الفندق غرف عائلية وغرف لغير المدخنين وغرفة للمدخنين."
+                },
+                {
+                    "title": "الرياضة/ الترفيه",
+                    "para": "تعدّ أحواض السباحة الداخلية والخارجية مكاناً مثالياً للتمارين المائية المنظّمة والاستجمام المنشّط. تضمن الخدمات والنشاطات الترفيهية المختلفة مثل الغولف وصالة اللياقة البدنية والأيروبيك تنوعاً في قضاء الأوقات."
+                },
+                {
+                    "title": "الطعام والشراب",
+                    "para": "يتوفر قاعة طعام في خدمة الزوار. يغري بوفيه الفطور الغني الزوار صباحاً لمغادرة غرفهم مبكراً."
+                },
+                {
+                    "title": "بطاقات إئتمانية",
+                    "para": "تُقبل في الفندق البطاقات الائتمانية التالية: أمريكان إكسبرس وبطاقة فيزا وماستر كارد."
+                }
+            ]
+        },
+        "bg": {
+            "locale": "bg",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Хотелска база",
+                    "para": "Хотелът предлага на гостите общо 43 стаи. Отделните етажи са достъпни с асансьор или по стълби. Към удобствата спадат съхранение на багаж и сейф. Безжичният интернет в общите части позволява на почиващите постоянна връзка с глобалната мрежа. Хотелската база разполага с редица удобства за хора с двигателни проблеми. Към кулинарните предложения се числят зала за хранене. Магазини също са на разположение на гостите. Към допълнителните удобства на хотела се числи сепаре с телевизор. Пристигналите с автомобил могат да ползват подземен гараж или паркинг (без допълнително заплащане). Наличието на пералня ще задоволи нуждите на взискателните посетители. Бизнес-центърът предлага на деловите гости факс."
+                },
+                {
+                    "title": "Настаняване",
+                    "para": "В стаите има климатик, централно отопление и санитарен възел. За най-малките посетители са налице бебешки кошарки. Освен това има писалище. За приятния престой на гостите са осигурени хладилник, микровълнова фурна и машина за приготвяне на чай или кафе. Към допълнителните удобства спада комплект ютия с дъска за гладене. Оборудването включва още интернет достъп, телефон, телевизор и безжичен интернет. Някои стаи са подходящи за хора, ползващи инвалидна количка. Санитарните възли притежават душ и джакузи. Допълнително е наличен сешоар. Възможно е да бъдат резервирани стаи със санитарни възли, пригодени за хора в инвалидни колички. Хотелът предлага фамилна стая, стаи за непушачи и стая за пушачи."
+                },
+                {
+                    "title": "Спорт/забавления",
+                    "para": "През горещите дни от годината гостите могат да се освежат в изградените за тази цел външен и вътрешен басейн. Многообразие осигуряват различни оферти за свободното време, сред които игрище за голф, фитнес-студио и аеробика."
+                },
+                {
+                    "title": "Хранене",
+                    "para": "Закуска може допълнително да се поръча."
+                },
+                {
+                    "title": "Кредитни карти",
+                    "para": "В хотелската база се приемат следните кредитни карти: American Express, Visa и MasterCard."
+                }
+            ]
+        },
+        "pt": {
+            "locale": "pt",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Localização",
+                    "para": "Este hotel fica em Sioux Falls. O aeroporto mais próximo é Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Instalações",
+                    "para": "Neste hotel com elevador e receção, há 43 quartos. Armazenamento de bagagens, um cofre e uma máquina de bebidas fazem parte dos serviços disponíveis. Há wi-fi disponível nas áreas comuns. O alojamento oferece uma série de instalações e serviços adaptados a pessoas com mobilidade reduzida. O estabelecimento dispõe de instalações adaptadas a cadeiras de rodas. Também há lojas disponíveis. As instalações do hotel incluem ainda uma sala de televisão. Os hóspedes que viajem de automóvel poderão deixá-lo na garagem ou no parque de estacionamento (sem custos adicionais). Entre os serviços adicionais há ainda um serviço de lavandaria e uma lavandaria automática. O centro de negócios dispõe de uma máquina de fax, facilitando as atividades empresariais."
+                },
+                {
+                    "title": "Alojamento",
+                    "para": "O ar condicionado e o aquecimento garantem uma temperatura agradável nos quartos. Estão disponíveis camas de criança para os hóspedes mais pequenos. Há uma secretária. Estão também disponíveis um frigorífico, um micro-ondas e uma máquina de café/chaleira. Para maior conforto dos hóspedes, está também disponível um conjunto para engomar. As instalações contam com telefone, televisão e wi-fi (sem custos adicionais). A casa de banho vem equipada com um duche e uma banheira de hidromassagem e inclui também um secador de cabelo. É também possível reservar quartos adaptados para cadeiras de rodas com casa de banho sem barreiras arquitetónicas. O alojamento contempla quartos familiares, quartos para não-fumadores e um quarto para fumadores."
+                },
+                {
+                    "title": "Desporto/Entretenimento",
+                    "para": "As piscinas cobertas e ao ar livre são ideais para a prática regular de hidroginástica, assim como para descansar. Para sair da rotina, os hóspedes contam com várias opções, tais como golfe, um centro de fitness e aeróbica."
+                },
+                {
+                    "title": "Refeições",
+                    "para": "Há uma sala de refeições. Um bufê de pequeno-almoço rico e variado dá boas e deliciosas razões para sair da cama de manhã."
+                },
+                {
+                    "title": "Cartões de crédito",
+                    "para": "Os seguintes cartões de crédito são aceites no estabelecimento: American Express, Visa e MasterCard."
+                }
+            ]
+        },
+        "zh": {
+            "locale": "zh",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "位置",
+                    "para": "这家酒店位置在Sioux Falls，最近的机场为Sioux Falls(FSD)。"
+                },
+                {
+                    "title": "酒店设施",
+                    "para": "在这家酒店内共有43间房间，也设置了电梯和前台。行李寄存服务、保险柜和饮料贩卖机包含在提供的服务项目当中。公共区域设置有无线网络。酒店提供一系列符合残疾人士需求的便利设施。酒店内备有无障碍设施。设施内亦设有商店，购物方便。其他的便利设施还包含视听室。如客人驾车前来，可将车辆停放在地下车库或者地面停车场（免费）。其他贴心服务还包含洗衣服务和投币式洗衣机。商务中心提供配备有传真机，提供便利服务。"
+                },
+                {
+                    "title": "客房设施",
+                    "para": "房间内温度舒适宜人，这都归功于便利的空调系统和暖气系统。小客人的儿童床也备好可用。此外亦提供书桌等。并且还有冰箱、微波炉和茶/咖啡冲泡设备。熨衣设备为客人提供额外的舒适便利。电话、电视机和无线网络（免费）等便利设施，让住宿空间更加完善。浴室里，配备有淋浴间和按摩浴缸，提供吹风机。此外，亦提供轮椅可通行的客房供预订，房内配备有无障碍浴室。酒店提供家庭房、禁烟房和吸烟房。"
+                },
+                {
+                    "title": "运动/休闲",
+                    "para": "室内及室外池特别适合进行定期的水中训练以及游泳健身。各种康乐项目提供多样化的休闲活动，其中包含高尔夫、健身中心和有氧运动。"
+                },
+                {
+                    "title": "餐饮",
+                    "para": "附设有用餐区。丰富多样的自助式早餐吸引人一早前来享用。"
+                },
+                {
+                    "title": "信用卡",
+                    "para": "欢迎在酒店内使用以下信用卡：美国运通（American Express）、维萨卡（Visa）和万事达卡（MasterCard）。"
+                }
+            ]
+        },
+        "sv": {
+            "locale": "sv",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Läge",
+                    "para": "Hotellet ligger i Sioux Falls. Den närmsta flygplatsen är Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Utrustning",
+                    "para": "På detta boende finns 43 rum och en hiss och en reception. Bagageförvaring, kassaskåp och en drickautomat står till förfogande för gästerna. Internet (wifi) i de allmänna utrymmena gör det möjligt för gästerna att hålla kontakt med omvärlden. Huset erbjuder självklart även en rad handikappanpassade bekvämligheter. Hotellets faciliteter är rullstolsanpassade. Boendet har även en rad affärer. I boendet finns ett TV-rum. Gästerna kan parkera i garaget eller på parkeringsplatsen (gratis). På hotellet erbjuds även tvättservice och en tvättautomat. Vid affärsfrågor hjälper businesscentret gärna till. På businesscentret finns en faxapparat."
+                },
+                {
+                    "title": "Boende",
+                    "para": "För ett behagligt klimat i rummen finns luftkonditionering och centralvärme. För små gäster finns barnsängar. På rummet finns det ett skrivbord. Här finns tillika ett kylskåp, en mikrovågsugn och en te-/kaffemaskin. Gästerna har även tillgång till strykjärn med strykbräda. Här finns även en telefon, en TV-apparat och wifi (gratis). I badrummet finns en dusch och ett bubbelbadkar, samt hårtork. Förutom detta finns möjligheten att boka rullstolsanpassade rum med barrärfritt badrum. Huset erbjuder familjerum, rökfria rum och ett rum där rökning är tillåten."
+                },
+                {
+                    "title": "Sport/nöje",
+                    "para": "Bassängerna inomhus och utomhus passar bra för både avslappning och regelmässig vattenträning. Här finns även möjligheten att varva ned med golf, gym och aerobics."
+                },
+                {
+                    "title": "Måltider",
+                    "para": "Det finns en matsal. En innehållsrik frukostbuffé lockar de mest morgontrötta gästerna ur sängen."
+                },
+                {
+                    "title": "Kreditkort",
+                    "para": "Följande kreditkort accepteras på hotellet: American Express, Visa och MasterCard."
+                }
+            ]
+        },
+        "el": {
+            "locale": "el",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Εξοπλισμός",
+                    "para": "Το ξενοδοχείο προσφέρει στους πελάτες συνολικά 43 δωμάτια. Οι μεμονωμένοι όροφοι είναι εύκολα προσβάσιμοι με το ασανσέρ ή από τις σκάλες. Στις εγκαταστάσεις ανήκουν ένας χώρος φύλαξης αποσκευών κι ένα χρηματοκιβώτιο. Το ασύρματο τοπικό δίκτυο στους κοινούς χώρους δίνει τη δυνατότητα στους ταξιδιώτες, να επικοινωνούν με τους δικούς τους. Το κατάλυμα διαθέτει μια σειρά πλεονεκτημάτων για άτομα με ειδικές ανάγκες. Στη γαστρονομική πρόταση μετράει μία τραπεζαρία. Υπάρχουν επίσης καταστήματα. Στον περαιτέρω εξοπλισμό του σπιτιού ανήκει επίσης μια αίθουσα τηλεόρασης. Κατά την άφιξη με το αυτοκίνητο οι πελάτες μπορούν να το σταθμεύουν σε ένα γκαράζ ή στο χώρο στάθμευσης (χωρίς χρέωση). Στην προσφορά ανήκει ένα καθαριστήριο. Στα επαγγελματικά θέματα βοηθάει το επιχειρηματικό κέντρο και προσφέρει μια συσκευή φαξ."
+                },
+                {
+                    "title": "Κατάλυμα",
+                    "para": "Στα δωμάτια υπάρχει ένα κλιματιστικό, μία κεντρική θέρμανση κι ένα μπάνιο. Για τους μικρούς ταξιδιώτες υπάρχουν παιδικά κρεβάτια. Επιπλέον, υπάρχει ένα γραφείο. Για μια διαμονή όλο ανέσεις φροντίζουν ένα ψυγείο, ένας φούρνος μικροκυμάτων και μια μηχανή του καφέ/τσαγιού. Ένα σετ κρεμάστρων παρέχει επιπλέον κομφόρ για τους πελάτες. Ο εξοπλισμός ολοκληρώνεται με μια πρόσβαση στο διαδίκτυο, ένα τηλέφωνο, μία τηλεόραση και WiFi (χωρίς χρέωση). Μερικά δωμάτια είναι κατάλληλα για αναπηρικές καρέκλες. Τα μπάνια διαθέτουν ένα ντους κι ένα τζακούζι. Επιπλέον, υπάρχει ένας στεγνωτήρας μαλλιών. Επιπρόσθετα, είναι δυνατή η κράτηση για μπάνια κατάλληλα για αναπηρικές καρέκλες. Το ξενοδοχείο προσφέρει οικογενειακό δωμάτιο, δωμάτιο μη καπνιστών και δωμάτιο καπνιστών."
+                },
+                {
+                    "title": "Σπορ/διασκέδαση",
+                    "para": "Μια βουτιά στη δροσερή εσωτερική ή εξωτερική πισίνα χαρίζει δροσιά τις ζεστές ημέρες. Οι διάφορες προτάσεις προσφέρουν ποικιλία, μεταξύ αυτών το γκολφ, ένα γυμναστήριο κι αεροβική."
+                },
+                {
+                    "title": "Διατροφή",
+                    "para": "Μπορείτε να επιλέξετε πρωινό."
+                },
+                {
+                    "title": "Πιστωτικές κάρτες",
+                    "para": "Οι παρακάτω πιστωτικές κάρτες γίνονται αποδεκτές στο κατάλυμα: American Express, Visa και MasterCard."
+                }
+            ]
+        },
+        "hu": {
+            "locale": "hu",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Szállás leírása",
+                    "para": "Összesen 43 szobát kínálnak a vendégeknek. Minden emelet megközelíthető lépcsőn vagy lift segítségével. A kínált szolgáltatásokhoz tartozik egy csomagmegőrző és egy széf. A nyilvános helyiségekben WiFi hozzáférés teszi lehetővé a kapcsolattartást a külvilággal. A hotel kialakításánál figyelembe vették a mozgáskorlátozott vendégek igényeit is. A gasztronómiai kínálathoz tartozik egy étkező. Számos üzlet is rendelkezésre áll. A szálláson található továbbá egy TV-szoba. Amennyiben a vendégek autóval érkeznek, parkolhatnak a garázsban vagy a szabadtéri parkolóban (díjmentesen). A vendégek rendelkezésére áll továbbá a mosodai szolgáltatás. Az üzleti tevékenység támogatásáról a Business-Center kínálata gondoskodik. Rendelkezésre áll egy egy faxgép."
+                },
+                {
+                    "title": "Szobák",
+                    "para": "A szobákat légkondicionáló berendezéssel, központi fűtéssel és fürdőszobával szerelték fel. A gyerekeknek kiságyat biztosítanak. Ezen kívül van íróasztal is. A kényelmet szolgálja továbbá egy hűtőszekrény, egy mikróhullámú sütő és egy tea-/kávéfőző. Rendelkezésre áll egy vasalókészlet is. A felszereltséget internet-hozzáférés, telefon, TV-készülék és WiFi egészíti ki. Egyes szobák mozgáskorlátozott-barát berendezéssel rendelkeznek. A fürdőszobák felszereléséhez zuhanyzó és hidromasszázskád tartozik. Rendelkezésre áll továbbá egy hajszárító. Akadálymentesített fürdőszoba is foglalható. Családi szobát, nem dohányzó szobát és dohányzó helyiséget is foglalható."
+                },
+                {
+                    "title": "Sport és szabadidő",
+                    "para": "Forró napokon kettő medence - egy benti és egy kinti - gondoskodik a hűsítő élményről. A változatosságot a színes kínálat biztosítja, többek között golfozás, egy edzőterem és aerobik."
+                },
+                {
+                    "title": "Ellátás",
+                    "para": "Reggeli kérhető."
+                },
+                {
+                    "title": "Fizetési lehetőségek",
+                    "para": "A szálláshelyen az alábbi kártyatípusokat fogadják el: American Express, Visa és MasterCard."
+                }
+            ]
+        },
+        "ro": {
+            "locale": "ro",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Amplasare",
+                    "para": "Acest hotel se află în Sioux Falls, cel mai apropiat aeroport este Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Dotări",
+                    "para": "În acest hotel cu un lift și o recepție sunt 43 de camere. Serviciile disponibile includ o cameră de bagaje, un seif și un automat de băuturi răcoritoare. În spațiile comune este disponibil WiFi. Locul de cazare oferă o serie de comodități pentru persoanele în scaun cu rotile. Unitatea de cazare dispune de facilități pentru persoanele în scaun cu rotile. Există de asemenea și magazine. Printre celelalte facilități ale hotelului se numără un spațiu cu televizor. În cazul în care călătoresc cu mașina, clienții pot să parcheze într-un garaj sau în parcare (gratuit). Printre alte servicii se găsesc un serviciu de spălătorie și o spălătorie de tip self-service. Centrul de afaceri oferă sprijin pentru afaceri și un fax."
+                },
+                {
+                    "title": "Locul de cazare",
+                    "para": "Un aparat de aer condiționat și un sistem de încălzire creează o atmosferă plăcută în camere. În plus, pentru cei mici sunt disponibile paturi pentru copii. Există un birou. Mai sunt disponibile și un frigider, un cuptor cu microunde și un aparat pentru cafea/ceai. Clienții au parte de mai mult confort și datorită setului de călcat. Echiparea este completată de un telefon, un televizor și WiFi (gratuit). În baia dotată cu un duș și o cadă cu hidromasaj există un uscător de păr. De asemenea, stau la dispoziție camere adaptate pentru scaun cu rotile cu baie fără bariere. Locul de cazare oferă camere de familie, camere de nefumători și o cameră de fumători."
+                },
+                {
+                    "title": "Sport/divertisment",
+                    "para": "Piscinele interioare și exterioare se potrivesc de minune pentru antrenamente constante în apă și odihnă activă. Diverse oferte garantează distracție, ca de exemplu partide de golf, o sală de fitness și aerobic."
+                },
+                {
+                    "title": "Mâncare",
+                    "para": "O sală de mese stă la dispoziție. Un bufet bogat la micul dejun contribuie la un început de zi dinamic."
+                },
+                {
+                    "title": "Carduri de credit",
+                    "para": "În unitatea de cazare sunt acceptate următoarele carduri de credit: American Express, Visa și MasterCard."
+                }
+            ]
+        },
+        "no": {
+            "locale": "no",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Beliggenhet",
+                    "para": "Baymont by Wyndham Sioux Falls North/I-29/Russell St ligger i Sioux Falls, nærmeste flyplass er Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Fasiliteter",
+                    "para": "På dette hotellet med en heis og en resepsjon finnes det 43 rom. Bagasjeoppbevaring, en safe og en drikkeautomat er blant tjenestene som tilbys. WiFi er tilgjengelig på fellesområdene. Overnattingsstedet tilbyr flere fasiliteter for funksjonshemmete gjester. Overnattingsstedet har fasiliteter tilpasset rullestolbrukere. Du finner også butikker her. Hotellets fasiliteter omfatter også et TV-rom. Ved ankomst med bil kan gjestene parkere den i garasjen eller på parkeringsplassen (uten ekstraavgift). Andre tjenester som tilbys, er vaskeriservice og et myntvaskeri. Ved alle businessbehov hjelper forretningssenteret deg gjerne videre, og tilbyr en telefaks."
+                },
+                {
+                    "title": "Rominformasjon",
+                    "para": "Et klimaanlegg og sentralvarme sørger for et behagelig inneklima på rommene. Barnesenger for de yngste gjestene kan også fremskaffes. Det finnes et skrivebord. Kjøleskap, mikrobølgeovn og te-/kaffekoker er også tilgjengelig. Strykejern/-brett er tilgjengelig, og sørger for at gjestene får ytterligere komfort. Andre fasiliteter inkluderer Internett-tilgang, telefon, TV og WiFi (uten ekstraavgift). På badet, som er utstyrt med dusj og boblebad, finnes det en hårføner. I tillegg kan du bestille rom tilpasset rullestolbrukere med barrierefritt bad. Overnattingsstedet tilbyr familierom, rom for ikke-røykere og et rom for røykere."
+                },
+                {
+                    "title": "Sport/underholdning",
+                    "para": "Innendørs- og utendørsbassengene egner seg utmerket til regelmessig trening i vannet og aktiv rekreasjon. En rekke ulike tilbud gir deg avveksling, deriblant golf, et treningsrom og aerobic."
+                },
+                {
+                    "title": "Måltider",
+                    "para": "Det finnes en spisesal tilgjengelig. En velfylt frokostbuffet lokker deg ut av senga om morgenen."
+                },
+                {
+                    "title": "Betalingskort",
+                    "para": "Følgende betalingskort godtas på overnattingsstedet: American Express, VISA og MasterCard."
+                }
+            ]
+        },
+        "da": {
+            "locale": "da",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Beliggenhed",
+                    "para": "Dette hotel ligger i Sioux Falls, og den nærmeste lufthavn er Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Indretning",
+                    "para": "På dette overnatningssted med elevator og reception vil gæsterne desuden finde 43 værelser. Af serviceydelser tilbydes bagageopbevaring, en safeboks og en drikkevareautomat. Ydermere er der WLAN til rådighed i fællesarealerne. Stedet tilbyder en række handicapvenlige faciliteter. Hotellet råder over faciliteter velegnede til gæster i kørestol. Der findes tilmed diverse butikker. Som del af overnatningsstedets yderligere faciliteter er der også en fjernsynsstue. Gæster der ankommer i bil, kan parkere denne i parkeringsgaragen eller på parkeringspladsen (uden gebyr). Af serviceydelser tilbydes også vasketøjsservice og et møntvaskeri. Gæsterne kan få råd og vejledning i businesscenteret og tilbydes en faxmaskine."
+                },
+                {
+                    "title": "Hotelværelse",
+                    "para": "Gæsterne vil finde et behageligt indeklima på værelserne i kraft af et klimaanlæg og et varmeapparat. De mindste gæster tilbydes børnesenge. Der er ydermere et skrivebord. Deslige er der køleskab, mikrobølgeovn og mulighed for at lave te/kaffe. Yderligere komfort tilbydes gæsterne i form af et strygejern og et strygebræt. Endelig omfatter indretningen også telefon, fjernsyn og WiFi (uden gebyr). På badeværelset, som er udstyret med brusebad og badekar med boblefunktion, er der ligeledes en hårtørrer. Der kan bestilles værelser egnede til gæster i kørestol med barrierefrit badeværelse. Stedet tilbyder familieværelser, ikkerygerværelser og et rygerværelse."
+                },
+                {
+                    "title": "Sport/underholdning",
+                    "para": "De indendørs og udendørs svømmebassiner egner sig perfekt til aktive fridage samt til gæster der dyrker vandsport regelmæssigt. Lidt afveksling tilbydes i form af mulighed for at spille golf, et fitnessstudie og aerobic."
+                },
+                {
+                    "title": "Forplejning",
+                    "para": "Der findes en spisesal på stedet. En righoldig morgenbuffet vil få gæsterne hurtigt ud af sengen."
+                },
+                {
+                    "title": "Kreditkort",
+                    "para": "Der accepteres på hotellet følgende kreditkort: American Express, Visa og MasterCard."
+                }
+            ]
+        },
+        "en-US": {
+            "locale": "en-US",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Location",
+                    "para": "This hotel is located in Sioux Falls. The nearest airport is Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Facilities",
+                    "para": "The hotel has 43 rooms and includes an elevator and a reception desk. A baggage storage service, a safe and a drinks machine are available. Wireless internet access in public areas allows guests to stay connected. The hotel offers a number of facilities for guests with disabilities. The hotel has wheelchair-accessible facilities. There are a number of shops as well. Additional facilities include a TV room. Guests arriving by car can park their vehicles in the garage or in the parking lot (no extra charge). Further services and facilities include a laundry service and a coin-operated laundry. The business center is on hand for guests' business requirements and provides a fax machine."
+                },
+                {
+                    "title": "Rooms",
+                    "para": "Air conditioning and central heating ensure that rooms maintain comfortable temperatures. Children's beds can be requested for younger guests. A desk is provided. Additional features include a refrigerator, a microwave and a tea/coffee station. An ironing set is provided for guests' convenience. Other features include a telephone, a TV and WiFi (no extra charge). Bathrooms are equipped with a shower and a whirlpool bath, as well as a hairdryer. Guests can also reserve wheelchair-friendly rooms with wheelchair-accessible bathrooms. The hotel has family rooms, non-smoking rooms and 1 smoking room."
+                },
+                {
+                    "title": "Sports/Entertainment",
+                    "para": "The indoor and outdoor pools are ideal for exercise as well as relaxation. There are many ways to relax or stay active at the hotel, including golf, a gym and aerobics."
+                },
+                {
+                    "title": "Meals",
+                    "para": "There is a dining room on the premises. A generous breakfast buffet guarantees a great start to the day."
+                },
+                {
+                    "title": "Payment",
+                    "para": "The hotel accepts the following credit cards: American Express, VISA and MasterCard."
+                }
+            ]
+        },
+        "tr": {
+            "locale": "tr",
+            "lastUpdate": 1713549901,
+            "sections": [
+                {
+                    "title": "Servisler",
+                    "para": "Otel, misafirlere toplam 43 adet oda sunmaktadır. Tüm katlara asansör veya merdivenle rahatça ulaşılabilir. Emanet bürosu ve otel kasası sunulan hizmetler arasındadır. Ortak alanlardaki kablosuz internet bağlantısı yolculara, dış dünya ile iletişimde kalma olanağı sağlamaktadır. Konaklama yerinde engellilerin ihtiyaçlarına uygun bir dizi hoş ayrıntı göze çarpmaktadır. Gastronomi alanında hizmet veren bir yemek odası mevcuttur. Tesis bünyesinde ayrıca birçok mağaza yer almaktadır. Televizyon odası, tesisin sunduğu ilave imkânlar arasında yer almaktadır. Misafirler, özel araçlarını kapalı veya açık otoparka bırakabilirler. Çamaşırhane misafirlere sunulan hizmetler arasındadır. Bir faks cihazı ile donatılmış olan \"Business Center\", ofis ihtiyacını karşılayarak, misafirlere yardımcı olmaktadır."
+                },
+                {
+                    "title": "Oda Özellikleri",
+                    "para": "Odalarda klima, merkezi ısıtma ve banyo bulunmaktadır. Küçük yolcular için çocuk yatakları mevcuttur. Bunların dışında, odalarda çalışma masası mevcuttur. Buzdolabı, mikrodalga fırın ve çay-kahve makinesi konaklama sırasında hoşa giden ayrıntılar arasındadır. Misafirlere ilave konfor sağlamak üzere bir ütü seti mevcuttur. İnternet erişimi, telefon, televizyon ve kablosuz internet bağlantısı mevcut donanımı tamamlamaktadır. Odaların bir kısmı, tekerlekli sandalye kullanımına uygun şekilde hazırlanmıştır. Banyolarda duş ve jakuzi mevcuttur. Ayrıca, saç kurutma makinesi bulunmaktadır. Bunun yanı sıra, tekerlekli sandalye kullanımına uygun banyo seçimi yapılabilir. Otel, tarafından aile odası, sigara içilmeyen oda ve sigara içilebilen oda seçenekleri sunulmaktadır."
+                },
+                {
+                    "title": "Spor / Eğlence",
+                    "para": "Misafirlerin kendilerini serin sularına bırakabileceği açık ve kapalı havuzlar sıcak günlerin hararetini alacaktır. Farklı alternatifler, örneğin golf, \"fitness\" salonu ve aerobik, değişiklik imkânı sunmaktadır."
+                },
+                {
+                    "title": "Yiyecek / İçecek Servisi",
+                    "para": "Kahvaltı seçimi yapılabilir."
+                },
+                {
+                    "title": "Ödeme Şekli",
+                    "para": "Konaklama yerinde yapılacak ödemelerde şu kredi kartları kullanılabilir: American Express, Visa ve MasterCard."
+                }
+            ]
+        },
+        "fi": {
+            "locale": "fi",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Sijainti",
+                    "para": "Hotelli sijaitsee Sioux Fallsissa, ja lähin lentoasema on Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Hotelli",
+                    "para": "Majoituksessa on 43 huonetta ja }. Palvelutarjontaan kuuluvat matkatavarasäilytys, tallelokero ja juoma-automaatti. Langatonta internetyhteyttä voi käyttää yleisissä tiloissa. Talo tarjoaa lukuisia esteettömiä mukavuuksia. Hotelli on huomioinut myös liikuntarajoitteisten asiakkaiden tarpeet. Ostoksia varten on lukuisia kauppoja. Majoituksen muihin tiloihin lukeutuu televisiotila. Autolla saapuvat asiakkaat voivat pysäköidä pysäköintihalliin tai parkkipaikalle (ilmainen). Palvelutarjontaan kuuluvat myös pesupalvelu ja itsepalvelupesula. Business Center auttaa mielellään liiketoiminnoissa ja tarjoaa faksin."
+                },
+                {
+                    "title": "Huonevarustus",
+                    "para": "Sopivan sisäilman huoneissa takaavat ilmastointilaite ja lämmitys. Pienimmille asiakkaille on lastenvuoteita. Tarjolla on kirjoituspöytää. Perusvarustuksia ovat jääkaappi, mikroaaltouuni ja teen- ja kahvinkeitin. Asiakkaille on myös silitysvälineet. Varustuksen täydentävät puhelin, televisio ja langaton internetyhteys (ilmainen). Kylpyhuoneessa on suihku ja poreallas sekä hiustenkuivaaja. Varattavissa on esteettömiä huoneita, joissa liikuntarajoitteisten tarpeet on huomioitu myös kylpyhuoneissa. Talossa on perhehuoneita, savuttomia huoneita ja tupakointihuone."
+                },
+                {
+                    "title": "Liikunta ja ajanviete",
+                    "para": "Sisä- ja ulkoaltaat soveltuvat sekä säännölliseen vesiharjoitteluun että virkistävään pulahdukseen. Liikunta- ja hyvinvointipalvelut, kuten golfaaminen, kuntosaliharjoittelu ja aerobic, pitävät huolen hyvästä olosta."
+                },
+                {
+                    "title": "Ravintolapalvelut",
+                    "para": "Ravintolapalveluihin kuuluu ruokasali. Aamuisin tarjoillaan runsas aamiaisbuffet, joka houkuttelee sängystä ylös."
+                },
+                {
+                    "title": "Luottokortit",
+                    "para": "Hotellissa voi maksaa seuraavilla luottokorteilla: American Express, Visa ja MasterCard."
+                }
+            ]
+        },
+        "pt-BR": {
+            "locale": "pt-BR",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "Localização",
+                    "para": "Este hotel fica em Sioux Falls, o aeroporto mais próximo é Sioux Falls (FSD)."
+                },
+                {
+                    "title": "Comodidades",
+                    "para": "Neste hotel com elevador e recepção, há 43 quartos. Um guarda-volumes para bagagem, um cofre e uma máquina de bebidas são algumas das comodidades oferecidas. Nas áreas sociais há acesso à rede Wi-Fi. O alojamento oferece uma série de comodidades aos portadores de deficiência. A acomodação dispõe de instalações devidamente adequadas a cadeirantes. Também encontram-se lojas. Uma instalação anexa do hotel inclui uma sala de TV. Chegando de automóvel, os hóspedes podem estacionar ou na garagem ou no estacionamento (sem taxas). Dentre vários serviços oferecidos, encontram-se também um serviço de lavanderia e uma lavanderia coletiva. Nos negócios, o business center apresenta suporte adequado e disponibiliza de um aparelho de fax."
+                },
+                {
+                    "title": "Alojamento",
+                    "para": "Um ar condicionado e um aquecimento central garantem temperatura ambiente agradável nos quartos. Também há camas infantis à disposição para os hóspedes menores. Tem-se à disposição uma escrivaninha. Há também uma geladeira, um micro-ondas e uma cafeteira/chaleira. Os hóspedes têm um kit para passar roupa para maior comodidade. Outras facilidades são: telefone, televisão e Wi-Fi (sem taxas). No banheiro, equipado com uma ducha e uma banheira de hidromassagem, há um secador de cabelo. Pode-se reservar quartos adaptados para cadeiras de rodas com banheiro com acesso sem barreiras. O alojamento oferece quartos família, quartos para não fumantes e quarto para fumante."
+                },
+                {
+                    "title": "Atividades esportivas/Entretenimento",
+                    "para": "Piscinas internas e externas são ideais para a prática regular de hidroginástica e atividades de relax. Atividades variadas, como golfe, uma academia e aeróbica, ajudam a sair da rotina."
+                },
+                {
+                    "title": "Regime de Refeição",
+                    "para": "Tem-se um salão de refeições à disposição. Um vasto buffet no café da manhã chama para sair da cama."
+                },
+                {
+                    "title": "Cartões de Crédito",
+                    "para": "Aceitam-se os seguintes cartões de crédito: American Express, Visa e MasterCard."
+                }
+            ]
+        },
+        "zh-Hant": {
+            "locale": "zh-Hant",
+            "lastUpdate": 1713549902,
+            "sections": [
+                {
+                    "title": "位置",
+                    "para": "這家酒店位置在蘇瀑，最近的機場為Sioux Falls(FSD)。"
+                },
+                {
+                    "title": "酒店設施",
+                    "para": "這家酒店內43間房間，也配備有電梯和接待櫃檯。行李寄存服務、保險箱和飲料販賣機包含在提供的服務項目當中。公共區域設置有無線網路。酒店提供一系列符合身心障礙人士需求的便利設施。酒店內備有無障礙設施。酒店內設有商店，購物方便。其他的便利設施還包含視聽室。如客人駕車前來，可將車輛停放在地下車庫或者地面停車場（免費）。其他貼心服務還包含洗衣服務和投幣式自助洗衣機。商務中心提供配備有傳真機，提供便利服務。"
+                },
+                {
+                    "title": "住宿",
+                    "para": "房間內溫度舒適宜人，這都歸功於便利的空調系統和暖氣系統。小客人的兒童床也備好可用。此外亦提供書桌等。並且還有冰箱、微波爐和茶/咖啡沖泡設備。熨衣設備為客人提供額外的舒適便利。電話、電視機和無線網路（免費）等便利設施，讓住宿空間更加完善。浴室裡，配備有淋浴間和按摩浴缸，提供吹風機。此外，亦提供可通行輪椅客房供預訂，房內配備有無障礙浴室。酒店提供家庭房、禁煙房和吸煙房。"
+                },
+                {
+                    "title": "運動/休閒",
+                    "para": "室內及室外池特別適合進行定期的水中訓練以及游泳健身。各種康樂項目提供多樣化的休閒活動，其中包含高爾夫、健身中心和有氧運動。"
+                },
+                {
+                    "title": "餐飲",
+                    "para": "附設有用餐區。豐富多樣的自助式早餐吸引人一早前來享用。"
+                },
+                {
+                    "title": "信用卡",
+                    "para": "歡迎在酒店內使用以下信用卡：美國運通（American Express）、VISA和萬事達卡（MasterCard）。"
+                }
+            ]
+        }
+    }
+}
