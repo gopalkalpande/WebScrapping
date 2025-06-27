@@ -1,0 +1,81 @@
+# Hotel Data Extraction Configuration
+
+# Data directories
+data:
+  input_dir: "./data/inputJSONs"
+  output_dir: "./data/output"
+  temp_dir: "./data/temp"
+
+# Processing settings
+processing:
+  batch_size: 100
+  max_workers: 4
+  timeout: 30
+  retry_attempts: 3
+
+# Output settings
+output:
+  format: "csv"
+  encoding: "utf-8"
+  include_index: false
+  compression: null
+
+# Data extraction settings
+extraction:
+  # Fields to extract
+  fields:
+    - "giataId"
+    - "names"
+    - "city"
+    - "destination"
+    - "country"
+    - "source"
+    - "ratings"
+    - "addresses"
+    - "phones"
+    - "emails"
+    - "urls"
+    - "geoCodes"
+    - "chains"
+    - "roomTypes"
+    - "images"
+    - "facts"
+    - "variantGroups"
+    - "texts"
+  
+  # Default locale for text extraction
+  default_locale: "en"
+  
+  # Include default values only
+  default_only: true
+
+# Logging settings
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "./logs/extraction.log"
+  max_size: "10MB"
+  backup_count: 5
+
+# Validation settings
+validation:
+  schema_validation: true
+  data_integrity: true
+  required_fields:
+    - "giataId"
+    - "names"
+    - "city"
+
+# Error handling
+error_handling:
+  continue_on_error: true
+  log_errors: true
+  save_failed_files: true
+  failed_files_dir: "./data/failed"
+
+# Performance settings
+performance:
+  memory_limit: "2GB"
+  chunk_size: 1000
+  cache_results: true
+  cache_dir: "./data/cache" 
