@@ -19,7 +19,7 @@ A Python-based web scraping and data extraction tool designed to process hotel i
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gopalkalpande/WebScrapping
 cd WebScrapping
 ```
 
